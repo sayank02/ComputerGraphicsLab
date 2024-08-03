@@ -11,7 +11,7 @@ Here’s a brief guide to get you started:
 
 3. Set Environment Variables: Ensure that all necessary environment variables are correctly set. This step is crucial for the proper functioning of the programs.
 
-4. Compile the Programs: Use the provided scripts or instructions to compile the graphics programs. This typically involves using a compiler like GCC or Clang.
+4. Compile the Programs: Use the provided scripts or instructions to compile the graphics programs. This typically involves using a compiler like GCC or Clang(In our case it's GCC).
 
 5. Run the Programs: Once compiled, you can run the programs to see the graphics in action. Make sure to test each program to ensure everything is working correctly.
 
