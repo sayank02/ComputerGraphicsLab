@@ -5,15 +5,15 @@ To ensure a smooth setup, it's important to follow every step shown in the accom
 
 Here’s a brief guide to get you started:
 
-1.Download the Repository: Clone or download the repository to your local machine.
+1. Download the Repository: Clone or download the repository to your local machine.
 
-2.Install Dependencies: Follow the instructions to install any required libraries or software. This may include graphics libraries, compilers, and additional tools.
+2. Install Dependencies: Follow the instructions to install any required libraries or software. This may include graphics libraries, compilers, and additional tools.
 
-3.Set Environment Variables: Ensure that all necessary environment variables are correctly set. This step is crucial for the proper functioning of the programs.
+3. Set Environment Variables: Ensure that all necessary environment variables are correctly set. This step is crucial for the proper functioning of the programs.
 
-4.Compile the Programs: Use the provided scripts or instructions to compile the graphics programs. This typically involves using a compiler like GCC or Clang.
+4. Compile the Programs: Use the provided scripts or instructions to compile the graphics programs. This typically involves using a compiler like GCC or Clang.
 
-5.Run the Programs: Once compiled, you can run the programs to see the graphics in action. Make sure to test each program to ensure everything is working correctly.
+5. Run the Programs: Once compiled, you can run the programs to see the graphics in action. Make sure to test each program to ensure everything is working correctly.
 
 The repository is designed to be user-friendly, with comments and documentation to help you understand each program. It covers a wide range of common graphics lab exercises, making it an excellent study tool. By following the setup instructions meticulously, you can avoid common pitfalls and ensure a successful setup.
 
