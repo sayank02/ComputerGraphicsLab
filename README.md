@@ -20,3 +20,15 @@ Here’s a brief guide to get you started:
 The repository is designed to be user-friendly, with comments and documentation to help you understand each program. It covers a wide range of common graphics lab exercises, making it an excellent study tool. By following the setup instructions meticulously, you can avoid common pitfalls and ensure a successful setup.
 
 Remember, the key to a successful setup is careful attention to detail. Follow the video tutorial closely, and refer to the documentation provided in the repository for any additional guidance. With everything set up correctly, you'll be able to explore and learn from the various graphics programs included in the repository.
+
+#Lab Programs list
+1.Bresenham's line drawing algorithm
+2.Mid-point circle drawing algorithm
+3.Clip a line using Cohen and Sutherland line clipping algorithm
+4.Clip a polygon using Sutherland Hodgeman algorithm
+5.Various 2D transformations on a 2D object (use homogenous 
+coordinates)
+6.Draw Hermite curve
+7.Draw Bezier  curve
+8.DDA line drawing algorithm
+9.Bresenham's circle drawing algorithm
