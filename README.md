@@ -1,4 +1,4 @@
-# Computer Graphics Lab
+# Computer Graphics Practical in C/C++
 This repository is a valuable resource for Computer Science undergraduate students, as it contains a wide range of tested graphics lab programs. Before compiling and running the code, it's crucial to properly set up the environment to avoid errors. The repository includes all the necessary files for setting up the environment.
 
 To ensure a smooth setup, it's important to follow every step shown in the accompanying video. The video provides detailed instructions on configuring the environment correctly. This includes installing required libraries, setting up paths, and configuring any environment variables.
