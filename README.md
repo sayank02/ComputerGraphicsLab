@@ -23,12 +23,20 @@ Remember, the key to a successful setup is careful attention to detail. Follow t
 
 #Lab Programs list
 1.Bresenham's line drawing algorithm
+
 2.Mid-point circle drawing algorithm
+
 3.Clip a line using Cohen and Sutherland line clipping algorithm
+
 4.Clip a polygon using Sutherland Hodgeman algorithm
+
 5.Various 2D transformations on a 2D object (use homogenous 
 coordinates)
+
 6.Draw Hermite curve
+
 7.Draw Bezier  curve
+
 8.DDA line drawing algorithm
+
 9.Bresenham's circle drawing algorithm
