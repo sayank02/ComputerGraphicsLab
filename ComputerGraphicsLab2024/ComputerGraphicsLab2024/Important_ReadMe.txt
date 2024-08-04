@@ -43,4 +43,4 @@ Copy Path Folder -- "ComputerGraphicsLab2024\freeglut" and Paste Folder -- "C:\M
 
 4.Copy ".vscode folder" from "ComputerGraphicsLab2024\freeglut and paste inside "your project directory(in our case it's ComputerGraphicsLab2024\CGL in C or ComputerGraphicsLab2024\CGL in C++)".If it's already inside the folder then no need to perform this step.
 
-Watch Tutorial on YouTube for successful setup:-
+Watch Tutorial on YouTube for successful setup:- https://youtu.be/Hnx4fACmwFw
