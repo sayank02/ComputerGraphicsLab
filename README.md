@@ -3,8 +3,7 @@ This repository is a valuable resource for Computer Science undergraduate studen
 
 To ensure a smooth setup, it's important to follow every step shown in the accompanying video. The video provides detailed instructions on configuring the environment correctly. This includes installing required libraries, setting up paths, and configuring any environment variables.
 
-Video Tutorial Link:- The video link will be available soon...
-
+Video Tutorial Link:- https://youtu.be/Hnx4fACmwFw
 Here’s a brief guide to get you started:
 
 1. Download the Repository: Clone or download the repository to your local machine.
